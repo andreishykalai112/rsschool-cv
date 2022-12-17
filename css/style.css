@@ -103,18 +103,18 @@ ul {
 }
 
 .contacts__box::after {
-    content: url("assets/icons/icons8-лицо-npc-50.ico");
+    content: url("../assets/icons/icons8-лицо-npc-50.ico");
     position: absolute;
     margin-top: -18px;
 }
 
 .header-email::after {
-    content: url("assets/icons/icons8-почта-48.ico");
+    content: url("../assets/icons/icons8-почта-48.ico");
 
 }
 
 .header-map::after {
-    content: url("assets/icons/icons8-местонахождение-пользователя-48.ico");
+    content: url("../assets/icons/icons8-местонахождение-пользователя-48.ico");
 }
 
 
